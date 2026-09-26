@@ -1,10 +1,10 @@
 [versions]
 # Android y Kotlin
-agp = "8.13.2"
-kotlin = "2.1.0"
+agp = "9.2.1"
+kotlin = "2.4.0"
 # Ksp
-ksp = "2.1.0-1.0.29"
-coreKtx = "1.18.0"
+ksp = "2.3.10"
+coreKtx = "1.19.1"
 # Testing
 junit = "4.13.2"
 junitTest = "1.3.0"
@@ -12,17 +12,17 @@ runnerTest = "1.7.0"
 mockk = "1.14.11"
 coroutines-test = "1.9.0"
 # Lifecycle & Compose
-lifecycleRuntimeKtx = "2.8.7"
-activityCompose = "1.9.3"
+lifecycleRuntimeKtx = "2.11.0"
+activityCompose = "1.13.0"
 constraintlayoutCompose = "1.1.2"
-# BOM de mediados de 2025 para estabilidad en 2026
-composeBom = "2025.02.00"
+# Compose BoM
+composeBom = "2026.09.00"
 # Coil
 coil = "2.7.0"
 # Navigation
-navigationRuntimeKtx = "2.9.0"
+navigationRuntimeKtx = "2.10.2"
 # Dependency Injection (Hilt)
-hilt = "2.54"
+hilt = "2.60.1"
 hiltCompose = "1.2.0"
 
 [libraries]
@@ -61,7 +61,6 @@ dagger-hilt-android-testing = { module = "com.google.dagger:hilt-android-testing
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-plugin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 hilt-android = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
 ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
