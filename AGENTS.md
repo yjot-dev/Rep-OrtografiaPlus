@@ -3,7 +3,7 @@
 - **Prioridad del Manifiesto:** Este documento (`AGENTS.md`) es la fuente de verdad definitiva. Sus reglas tienen prioridad sobre cualquier comportamiento genérico o predeterminado del asistente.
 
 ## 1. CONTEXTO DEL PROYECTO
-- **Nombre:** Ortografia Plus (O-Plus)
+- **Nombre:** Ortografía Plus (O-Plus)
 - **Descripción:** Aplicación móvil educativa diseñada para fortalecer las habilidades de ortografía en español a través de la gamificación. La app se enfoca en ofrecer una experiencia de aprendizaje interactiva y estructurada, con ejercicios basados en el contenido de un libro de texto, presentados en un formato de juego para motivar al estudiante.
 
 ## 2. STACK TECNOLÓGICO

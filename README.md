@@ -1,5 +1,5 @@
-# ORTOGRAFIA PLUS (O-Plus)
-Ortografia Plus (O-Plus) es una aplicación móvil educativa diseñada para fortalecer las habilidades de ortografía en español a través de la gamificación. La app se enfoca en ofrecer una experiencia de aprendizaje interactiva y estructurada, con ejercicios basados en el contenido de un libro de texto, presentados en un formato de juego para motivar al estudiante.
+# ORTOGRAFÍA PLUS (O-Plus)
+O-Plus es una aplicación móvil educativa diseñada para fortalecer las habilidades de ortografía en español a través de la gamificación. La app se enfoca en ofrecer una experiencia de aprendizaje interactiva y estructurada, con ejercicios basados en el contenido de un libro de texto, presentados en un formato de juego para motivar al estudiante.
 
 # Características principales
 - 🪟 Interfaz moderna con Jetpack Compose
@@ -33,7 +33,7 @@ El flujo de uso de la aplicación está diseñado para ser intuitivo y progresiv
    - El sistema cuenta con un sistema de vidas. Si el usuario completa los ejercicios sin perder todas sus vidas, recibe un mensaje de felicitaciones. En caso contrario, se le anima a intentarlo de nuevo.
    - Al finalizar, se muestra un resumen con el puntaje obtenido, permitiendo al usuario reiniciar el juego para una nueva partida y mejorar su resultado.
 
-En resumen, Ortografia Plus combina una estructura de contenido educativo sólido con mecánicas de juego para crear una herramienta de aprendizaje efectiva y atractiva. La aplicación guía al estudiante desde el registro y la exploración de temas hasta la práctica interactiva, proporcionando feedback inmediato sobre su desempeño y fomentando la mejora continua.
+En resumen, O-Plus combina una estructura de contenido educativo sólido con mecánicas de juego para crear una herramienta de aprendizaje efectiva y atractiva. La aplicación guía al estudiante desde el registro y la exploración de temas hasta la práctica interactiva, proporcionando feedback inmediato sobre su desempeño y fomentando la mejora continua.
 
 # Ver video Demo
 [Ver en YouTube](https://youtu.be/sf49ZZlkQ3Q)
