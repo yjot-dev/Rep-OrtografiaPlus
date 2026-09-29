@@ -36,7 +36,7 @@ El flujo de uso de la aplicación está diseñado para ser intuitivo y progresiv
 En resumen, O-Plus combina una estructura de contenido educativo sólido con mecánicas de juego para crear una herramienta de aprendizaje efectiva y atractiva. La aplicación guía al estudiante desde el registro y la exploración de temas hasta la práctica interactiva, proporcionando feedback inmediato sobre su desempeño y fomentando la mejora continua.
 
 # Ver video Demo
-[Ver en YouTube](https://youtu.be/sf49ZZlkQ3Q)
+[Ver en YouTube](https://youtu.be/EKRhAspOMws)
 
 # Contribución
 - Haz un fork del repositorio
